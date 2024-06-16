@@ -1,0 +1,839 @@
+[
+    {
+        "title": "开篇词",
+        "url": "https://xiongod.github.io/hsrb/data/0000.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 0,
+        "id": "2a0d70a82b854cd58aebfd942de17255"
+    },
+    {
+        "title": "黎明的枪声（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0001.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 1,
+        "id": "40409106f3954358993365b889555a54"
+    },
+    {
+        "title": "黎明的枪声（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0002.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 2,
+        "id": "c26ecab126584961a2915a48ef77b21b"
+    },
+    {
+        "title": "有朋自远方来（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0003.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 3,
+        "id": "2a4a8b03e4394ebca81cdafd51b6c65f"
+    },
+    {
+        "title": "有朋自远方来（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0004.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 4,
+        "id": "b1b21ffefb27473598eca26e09631ed4"
+    },
+    {
+        "title": "冤家终聚首（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0005.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 5,
+        "id": "36922cd918804a2b9433ac7afd27848c"
+    },
+    {
+        "title": "冤家终聚首（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0006.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 6,
+        "id": "418baa0c2a1340129fa5b542f6e93348"
+    },
+    {
+        "title": "为苦难讨说法（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0007.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 7,
+        "id": "95d3368cf1014ce2a932f57581f58829"
+    },
+    {
+        "title": "为苦难讨说法（中）",
+        "url": "https://xiongod.github.io/hsrb/data/0008.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 8,
+        "id": "136b346d228b45958acc38aefa26bb66"
+    },
+    {
+        "title": "为苦难讨说法（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0009.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 9,
+        "id": "c47187a653ea43dfbd32203acbf61c84"
+    },
+    {
+        "title": "面包和子弹（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0010.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 10,
+        "id": "991a97e48fe54948992face56616ae91"
+    },
+    {
+        "title": "面包和子弹（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0011.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 11,
+        "id": "bf586779497e46f888e70c989110c74f"
+    },
+    {
+        "title": "让风吹走我的眼泪（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0012.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 12,
+        "id": "895b840d1bd6475ebc44e2eb427c8730"
+    },
+    {
+        "title": "让风吹走我的眼泪（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0013.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 13,
+        "id": "894c1fe310ae4bac9939df90a767efb1"
+    },
+    {
+        "title": "上帝的礼物（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0014.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 14,
+        "id": "81fb3dc9cae9431f914744755e24e31a"
+    },
+    {
+        "title": "上帝的礼物（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0015.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 15,
+        "id": "fc719d3a5c8c4683b6885a299f66b012"
+    },
+    {
+        "title": "军备的诱惑（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0016.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 16,
+        "id": "9c853fed34ae4d988b7012038ccb0849"
+    },
+    {
+        "title": "军备的诱惑（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0017.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 17,
+        "id": "050bf3aa5314439280991262e840b231"
+    },
+    {
+        "title": "内忧永远在（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0018.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 18,
+        "id": "e83f12f5d00b43b4bbdc5fbe15246ef6"
+    },
+    {
+        "title": "内忧永远在（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0019.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 19,
+        "id": "4651dcbdac654921a9a92abd38dadeb4"
+    },
+    {
+        "title": "1955年体制（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0020.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 20,
+        "id": "0221dc001b8844be932c419a465f017a"
+    },
+    {
+        "title": "1955年体制（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0021.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 21,
+        "id": "9bba8c4f2587453da2603cd6096aed16"
+    },
+    {
+        "title": "战犯还乡团（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0022.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 22,
+        "id": "9f661c182fcf4c5eb8c3816c21f60754"
+    },
+    {
+        "title": "战犯还乡团（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0023.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 23,
+        "id": "df12f6ccc0034c8faf7d7c2e14ac2341"
+    },
+    {
+        "title": "安保弄人狂（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0024.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 24,
+        "id": "37fa5d384beb45c388807ded9f6db8b4"
+    },
+    {
+        "title": "安保弄人狂（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0025.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 25,
+        "id": "b0e2385fdc4f4198afa576dfac076f60"
+    },
+    {
+        "title": "没有潇洒的离去（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0026.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 26,
+        "id": "4e31c66427e14a2698b5e043eddf82bf"
+    },
+    {
+        "title": "没有潇洒的离去（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0027.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 27,
+        "id": "b14ee265659e491fb426fb031e2572d6"
+    },
+    {
+        "title": "致命的代价（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0028.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 28,
+        "id": "aba57f4a988b4485aadf9bc4ad94380c"
+    },
+    {
+        "title": "致命的代价（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0029.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 29,
+        "id": "85d60a4527754f62a2b7935ebb235b7d"
+    },
+    {
+        "title": "所得倍增计划（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0030.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 30,
+        "id": "823f7db9a5574130b1e9270bc6245138"
+    },
+    {
+        "title": "所得倍增计划（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0031.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 31,
+        "id": "7871a53dbe254ff69cb8016624901eff"
+    },
+    {
+        "title": "奥运振民气（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0032.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 32,
+        "id": "e401c09ec4b1475fb096aa780bf7b301"
+    },
+    {
+        "title": "奥运振民气（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0033.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 33,
+        "id": "227573410e374c7b9f6e25f31139388d"
+    },
+    {
+        "title": "赌命拼三选（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0034.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 34,
+        "id": "599e2692b90f4b47a2ec6ea0fcf1ffbe"
+    },
+    {
+        "title": "赌命拼三选（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0035.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 35,
+        "id": "46adc0e6a3ac46a5b4b71093127aa869"
+    },
+    {
+        "title": "佐藤用人术（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0036.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 36,
+        "id": "649b58ae746a4c9d94686e538926fa87"
+    },
+    {
+        "title": "佐藤用人术（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0037.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 37,
+        "id": "e5f8756eec7444019fa385501b132f16"
+    },
+    {
+        "title": "心有领土结（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0038.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 38,
+        "id": "93b0ab2055744a3faa7e75334cbd44d8"
+    },
+    {
+        "title": "心有领土结（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0039.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 39,
+        "id": "41257512d11d4c60b57dc7c4e215a61f"
+    },
+    {
+        "title": "黑雾笼东瀛（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0040.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 40,
+        "id": "1499a9fee4c6448bba46ca6b0b0a1c70"
+    },
+    {
+        "title": "黑雾笼东瀛（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0041.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 41,
+        "id": "e8a3b3a98d03469bb5932b0210edc714"
+    },
+    {
+        "title": "无核三原则（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0042.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 42,
+        "id": "b6be363880814072ae943f613ec82421"
+    },
+    {
+        "title": "无核三原则（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0043.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 43,
+        "id": "463d21e8862e45a087f1b238abec682d"
+    },
+    {
+        "title": "极端的武影（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0044.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 44,
+        "id": "3b0b20e3fb7f41da944b6b7d21232b2d"
+    },
+    {
+        "title": "极端的武影（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0045.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 45,
+        "id": "0f864d5463204aa9bbf37ea31a3a52bd"
+    },
+    {
+        "title": "角福争座次（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0046.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 46,
+        "id": "55111fa331014f29ba488ab8b0f05c0f"
+    },
+    {
+        "title": "角福争座次（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0047.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 47,
+        "id": "cf5cd8912aec41b8a366030678024b02"
+    },
+    {
+        "title": "英雄不问出处（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0048.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 48,
+        "id": "e69c6de1a0e5450b8513af8ac63472e9"
+    },
+    {
+        "title": "英雄不问出处（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0049.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 49,
+        "id": "7b354f6a0cda4b1ba3d189bb2f8efffe"
+    },
+    {
+        "title": "中日破冰之旅（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0050.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 50,
+        "id": "f46be817b13d42afbcc987ec9849d8d5"
+    },
+    {
+        "title": "中日破冰之旅（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0051.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 51,
+        "id": "6ccfbc25a54d4176a632a999365df70e"
+    },
+    {
+        "title": "流产的宏图（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0052.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 52,
+        "id": "142d1af5feae49f99917d5dad997c3bd"
+    },
+    {
+        "title": "流产的宏图（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0053.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 53,
+        "id": "1ef72014fa5c43fd9a77740c62e68603"
+    },
+    {
+        "title": "综合病院（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0054.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 54,
+        "id": "802a74eff28b49958137aa48fd5675ee"
+    },
+    {
+        "title": "综合病院（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0055.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 55,
+        "id": "7e5032adcbb245a1bfc61ebb720e1c10"
+    },
+    {
+        "title": "英明的裁定（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0056.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 56,
+        "id": "9e1216569c664538ab633847aa665e17"
+    },
+    {
+        "title": "英明的裁定（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0057.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 57,
+        "id": "763834b481544bad98d25142d9ea3687"
+    },
+    {
+        "title": "真是一个打击（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0058.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 58,
+        "id": "885abc2992864eb280b1bf8366fdf982"
+    },
+    {
+        "title": "真是一个打击（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0059.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 59,
+        "id": "f60476afde714a59bc6e1e87f649ef7b"
+    },
+    {
+        "title": "血染的狂徒（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0060.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 60,
+        "id": "d7a5916de9fe42dc830afda66a2cb65d"
+    },
+    {
+        "title": "血染的狂徒（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0061.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 61,
+        "id": "8907ffc7d7c842149470d10e21577308"
+    },
+    {
+        "title": "不守约的代价（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0062.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 62,
+        "id": "f482ede3c3b540bc8f7bd36a91d8e4b7"
+    },
+    {
+        "title": "不守约的代价（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0063.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 63,
+        "id": "3b87429becb64679935e1415b5ffd4e8"
+    },
+    {
+        "title": "还民碧水清风（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0064.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 64,
+        "id": "3b18e6a2b95143cf8bd4c19c3943fde7"
+    },
+    {
+        "title": "还民碧水清风（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0065.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 65,
+        "id": "07c3e3d1f3134802b0d853dcf8bc70a6"
+    },
+    {
+        "title": "下台等同夺命（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0066.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 66,
+        "id": "11028179042e4eb7bb92a618576efc87"
+    },
+    {
+        "title": "下台等同夺命（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0067.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 67,
+        "id": "8612526c16c24d01abf30d2eb1c95701"
+    },
+    {
+        "title": "永不沉没的航母（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0068.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 68,
+        "id": "4df44a0bac44472a8671aebb7c7da6b9"
+    },
+    {
+        "title": "永不沉没的航母（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0069.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 69,
+        "id": "bee065db4f60497d884fd955e0631960"
+    },
+    {
+        "title": "协议惹的祸（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0070.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 70,
+        "id": "ce830258d3f24a47bc6954e1e26a6fde"
+    },
+    {
+        "title": "协议惹的祸（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0071.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 71,
+        "id": "1da1d975decf4e46bccdf2e1cdc465f5"
+    },
+    {
+        "title": "无暗流不成首相（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0072.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 72,
+        "id": "3fb08976c55f4fa28aa3e4ffaddf3802"
+    },
+    {
+        "title": "无暗流不成首相（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0073.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 73,
+        "id": "a8fd0aa3a7be40149a2d9d194a4782bb"
+    },
+    {
+        "title": "怅然的离去（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0074.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 74,
+        "id": "b87e2bb640a84bf3894e2ef500ad8231"
+    },
+    {
+        "title": "怅然的离去（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0075.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 75,
+        "id": "e6d2e6d81580420cbcc5fb83be584b9e"
+    },
+    {
+        "title": "出来混迟早要还（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0076.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 76,
+        "id": "ce3eb86fb2ca45f2ac086a68a1c9cfc6"
+    },
+    {
+        "title": "出来混迟早要还（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0077.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 77,
+        "id": "b4d7f608180d43c4b38ed1a13e4881c9"
+    },
+    {
+        "title": "这么快就用废了（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0078.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 78,
+        "id": "f5ed3ed6a1634e00a5c036582bb76411"
+    },
+    {
+        "title": "这么快就用废了（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0079.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 79,
+        "id": "4622429be8b14f0c845154eb21f15660"
+    },
+    {
+        "title": "被逼的野合（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0080.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 80,
+        "id": "d883229c11834c92ba906dd2afec6845"
+    },
+    {
+        "title": "被逼的野合（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0081.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 81,
+        "id": "c7490850570b40c28a84bac55e0be462"
+    },
+    {
+        "title": "假面的告白（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0082.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 82,
+        "id": "4d44af3d83e74ecbba57ae35ffb4708f"
+    },
+    {
+        "title": "假面的告白（中）",
+        "url": "https://xiongod.github.io/hsrb/data/0083.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 83,
+        "id": "16fb8591bedb42ae9ef5cf26e8361123"
+    },
+    {
+        "title": "假面的告白（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0084.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 84,
+        "id": "28a403b0a7a0426e9c44003a360f6386"
+    },
+    {
+        "title": "一只看不见的手（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0085.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 85,
+        "id": "9101234d82f9450fab988e731c3413c9"
+    },
+    {
+        "title": "一只看不见的手（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0086.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 86,
+        "id": "637e98d478b84e3eb90ebd91cc18c418"
+    },
+    {
+        "title": "失去的二十年（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0087.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 87,
+        "id": "861eef86574547adbe3bb2c2b4357d78"
+    },
+    {
+        "title": "失去的二十年（中）",
+        "url": "https://xiongod.github.io/hsrb/data/0088.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 88,
+        "id": "b1ea30e941674ffeb70aec6623ae5f8b"
+    },
+    {
+        "title": "失去的二十年（下）",
+        "url": "https://xiongod.github.io/hsrb/data/0089.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 89,
+        "id": "205726290456490d95c4c071061c3324"
+    },
+    {
+        "title": "迈向低欲望（上）",
+        "url": "https://xiongod.github.io/hsrb/data/0090.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 90,
+        "id": "ab0567524546423889877235f9977fb2"
+    },
+    {
+        "title": "迈向低欲望（下",
+        "url": "https://xiongod.github.io/hsrb/data/0091.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 91,
+        "id": "6f980e12ef7c4e1193ff2fab012d5020"
+    },
+    {
+        "title": "安倍遇刺，日本政坛为何刺杀频出话说日本150年刺杀史",
+        "url": "https://xiongod.github.io/hsrb/data/0092.m4a",
+        "duration": "",
+        "published": "2024-06-16",
+        "createTime": "",
+        "chapter": 92,
+        "id": "6457bda5ae384728acf20d98e4b9d3d8"
+    }
+]
